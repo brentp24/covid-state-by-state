@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## COVID State by State Comparison
 
-You can use the [editor on GitHub](https://github.com/brentp24/covid-state-by-state/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Chart and description of the NY Times Covid-19 data
 
 ### Markdown
 
